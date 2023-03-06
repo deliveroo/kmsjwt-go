@@ -1,4 +1,4 @@
-module github.com/marcinwyszynski/kmsjwt/v4
+module github.com/deliveroo/kmsjwt-go/v4
 
 go 1.13
 
